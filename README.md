@@ -31,3 +31,6 @@ Random number generation
 Tuple library
 Type traits
 Atomic operations
+
+
+C++ 17 Additions Crash Course now also Available (Not Finished Currently)
